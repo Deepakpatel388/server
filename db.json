@@ -1,0 +1,94 @@
+{
+    "jobSeeker": [
+        {
+          "id": 1,
+          "name": "Sebastian",
+          "email": "sebastian@codingthesmartway.com",
+          "type" : "frontend developer"
+        },
+        {
+          "id": 2,
+          "first_name": "Steve",
+          "email": "steve@codingthesmartway.com",
+          "type" : "javaScript developer"
+        },
+        {
+          "id": 3,
+          "first_name": "Ann",
+          "email": "ann@codingthesmartway.com",
+          "type" : "Nodejs developer"
+        },
+        {
+          "id": 4,
+          "first_name": "Deepak",
+          "email": "deepak@codingthesmartway.com",
+          "type" : "MERN developer"
+        },
+        {
+          "id": 5,
+          "first_name": "Ashit",
+          "email": "ashit@codingthesmartway.com",
+          "type" : "Full stack developer"
+        },
+        {
+          "id": 6,
+          "first_name": "Rahul",
+          "email": "rahul@codingthesmartway.com",
+          "type" : "Reactjs developer"
+        },
+        {
+          "id": 7,
+          "first_name": "Raju",
+          "email": "raju@codingthesmartway.com",
+          "type" : "Reactjs developer"
+        },
+        {
+          "id": 8,
+          "first_name": "Maya",
+          "email": "maya@codingthesmartway.com",
+          "type" : "HTML developer"
+        },
+        {
+          "id": 9,
+          "first_name": "Monu",
+          "email": "monu@codingthesmartway.com",
+          "type" : "MEAN developer"
+        },
+        {
+          "id": 10,
+          "first_name": "Rajesh",
+          "email": "rajesh@codingthesmartway.com",
+          "type" : "Flutter developer"
+        },
+        {
+          "id": 11,
+          "first_name": "Ganesh",
+          "email": "ganesh@codingthesmartway.com",
+          "type" : "python developer"
+        },
+        {
+          "id": 12,
+          "first_name": "Ganpati",
+          "email": "ganpati@codingthesmartway.com",
+          "type" : "content Writter"
+        },
+        {
+          "id": 13,
+          "first_name": "Ramesh",
+          "email": "ramesh@codingthesmartway.com",
+          "type" : "backend developer"
+        },
+        {
+          "id": 14,
+          "first_name": "Amit",
+          "email": "amit@codingthesmartway.com",
+          "type" : "cab driver"
+        },
+        {
+          "id": 15,
+          "first_name": "Naresh",
+          "email": "naresh@codingthesmartway.com",
+          "type" : "accountant"
+        }
+      ]
+}
